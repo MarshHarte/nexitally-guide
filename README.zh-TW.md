@@ -1,10 +1,10 @@
-# Nexitally奶昔機場官網入口｜VPN辦公與裝置管理 **（更新於2026-10-08）**
+# Nexitally奶昔機場官網入口｜VPN辦公與裝置管理 **（更新於2026-10-10）**
 
 [简体中文](README.md) · **繁體中文** · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Русский](README.ru.md)
 
 本專案由Nexitally官方釋出與維護。Nexitally奶昔機場官方入口與VPN辦公指南：同時線上裝置、公網IP規則、換網路後的連線檢查及賬戶使用說明。 把奶昔加速器加入日常工作流程前，先明確裝置、網路和目標應用三項條件。
 
-**地址更新於 2026-10-08（北京時間）**
+**地址更新於 2026-10-10（北京時間）**
 
 [官網入口](#official-addresses) · [使用步驟](#usage-guide) · [術語與接入方式](#connection-terms) · [常見問題](#brand-faq)
 
